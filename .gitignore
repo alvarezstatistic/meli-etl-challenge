@@ -1,0 +1,88 @@
+# ---------------------------------------------
+# 🔒 Git Ignore — Python + Docker + VSCode
+# ---------------------------------------------
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyo
+*.pyd
+
+# 🧪 Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# 📦 Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+pip-wheel-metadata/
+
+# 🧰 PyInstaller
+*.manifest
+*.spec
+
+# 🧪 Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+htmlcov/
+nosetests.xml
+coverage.xml
+
+# 📊 Jupyter Notebooks
+.ipynb_checkpoints
+
+# 🗃️ Logs
+*.log
+logs/
+*.out
+*.err
+
+# 💾 Databases
+*.sqlite3
+*.db
+*.sql
+
+# 🔐 Environment variables
+.env
+.env.*
+!.env.example
+
+# 🐋 Docker
+docker-compose.override.yml
+*.pid
+*.seed
+*.bak
+*~backup*
+.dockerignore
+
+# ⚙️ VSCode
+.vscode/
+.history/
+*.code-workspace
+
+# 🧱 OS Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# 📦 PyCharm / JetBrains
+.idea/
+*.iml
+
+# 🚀 Others
+__pypackages__/
+site/
+.venv.bak/
