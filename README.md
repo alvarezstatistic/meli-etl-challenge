@@ -5,8 +5,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-green.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-> **Desafio Técnico – ETL Automatizado (Python + Docker + PostgreSQL)**  
-> Este projeto implementa um pipeline ETL (Extract, Transform, Load) para coletar, processar e armazenar dados de produtos da **Mercado Libre (Argentina)** — com foco em dispositivos **Samsung Galaxy**.
+> **Desafío Técnico – ETL Automatizado (Python + Docker + PostgreSQL)
+Este proyecto implementa un pipeline ETL (Extracción, Transformación y Carga) para recopilar, procesar y almacenar datos de productos de 
+**Mercado Libre (Argentina), con especial atención a los dispositivos Samsung Galaxy.
 ---
 ## 🧩 Estrutura do Projeto
 
