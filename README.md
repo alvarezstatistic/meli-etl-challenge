@@ -1,5 +1,5 @@
 # 🚀 Mercado Libre ETL – Samsung Galaxy (Argentina) + Docker
-
+XX
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-green.svg)](https://www.postgresql.org/)
@@ -9,7 +9,7 @@
 Este proyecto implementa un pipeline ETL (Extracción, Transformación y Carga) para recopilar, procesar y almacenar datos de productos de 
 **Mercado Libre (Argentina), con especial atención a los dispositivos Samsung Galaxy.
 ---
-## 🧩 Estrutura do Projeto
+## 🧩 Estructura del proyecto
 
 ```bash
 meli_etl_docker/
